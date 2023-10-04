@@ -1,4 +1,5 @@
-cd "%~dp0"
+cd "C:\Users\Jorge Luis\Desktop\CocoBross"
+# cd "%~dp0"
 git add .
 
 current_date=$(date +"%Y-%m-%d %H:%M:%S")
